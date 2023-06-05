@@ -1,6 +1,6 @@
 # Store Manager 🚀
 
-## Development of a RESTful API using layered architecture!
+## Development of a RESTful API using layered architecture
 
 ### The built API is a sales management system in which it will be possible to create, visualize, delete and update products and sales.
   
@@ -100,5 +100,5 @@ docker logs -n 20 -f store_manager
   
 ### 11 - Created endpoint for searching products
 
--The endpoint must be accessible via the `GET /products/search` URL;
+- The endpoint must be accessible via the `GET /products/search` URL;
 
