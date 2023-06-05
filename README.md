@@ -1,6 +1,6 @@
 # Store Manager 🚀
 
-### Development of a RESTful API using layered architecture
+### Development of a REST API using layered architecture
 
 #### The built API is a sales management system in which it will be possible to create, visualize, delete and update products and sales.
   
